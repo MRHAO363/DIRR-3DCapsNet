@@ -18,7 +18,7 @@ The experiments use the Automated Cardiac Diagnosis Challenge (ACDC) dataset.
 
 The ACDC dataset is not redistributed in this repository. Please obtain the dataset from the official ACDC website.
 
-
+## Setup and Reproducibility
 Parameter descriptions:
 CLASS_MAP: category mapping of the five cardiac phenotypes.
 TARGET_SHAPE: final input shape after cropping and padding.
