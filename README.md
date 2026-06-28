@@ -9,7 +9,7 @@ Open the corresponding .ipynb file in JupyterLab or Jupyter Notebook and run all
 - `ED only.ipynb`: ablation experiment using only the ED phase.
 - `ES only.ipynb`: ablation experiment using only the ES phase.
 - `ED + ES without Diff.ipynb`: ablation experiment without ES−ED differential feature fusion.
-- `-3D-RoPE.ipynb`: ablation experiment without the 3D rotary positional encoding module.
+- `-3D-RCPE.ipynb`: ablation experiment without the 3D rotary capsule positional encoding  module.
 - `-Local interactive routing.ipynb`: ablation experiment without the local interactive routing branch.
 
 ## Dataset
